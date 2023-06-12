@@ -1,0 +1,32 @@
+.main-app{
+   
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.Navbar-main{
+    background-color: rgb(221, 221, 221);
+   
+}
+
+.Navbar-main ul{
+    display: flex;
+    justify-content: end;
+    text-decoration: none;
+}
+.Navbar-main ul li :hover{
+    color: rgb(0, 0, 0);
+}
+.Navbar-main ul li{
+   margin: 20px;
+   text-decoration: none;
+   list-style: none;
+  
+}
+.Navbar-main .active{
+    color: rgb(156, 0, 0);
+ 
+}
+
+
